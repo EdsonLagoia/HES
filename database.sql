@@ -8,7 +8,7 @@ INSERT INTO modules VALUES
 (5, 'fa-solid fa-truck-medical', 'entry', 'Entradas');
 
 INSERT INTO users VALUES
-(1, 'Administrador', '000.000.000-00', '(96) 99999-9999', 'cotec@saude.ap.gov.br', '$2y$10$xQFEDHKyL8xIJzKOc1XVQ.sxzyoYkaF2LhDWo5PYVYFJorOtYJSPK', '["1", "2", "3", "4", "5"]', 1, 0);
+(1, 'Administrador', '000.000.000-00', '(96) 99999-9999', 'admin@admin', '$2y$10$xQFEDHKyL8xIJzKOc1XVQ.sxzyoYkaF2LhDWo5PYVYFJorOtYJSPK', '["1", "2", "3", "4", "5"]', 1, 0);
 
 INSERT INTO origins VALUES
 (1, 'AREA RURAL', 1),
